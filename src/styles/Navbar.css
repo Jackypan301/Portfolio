@@ -45,6 +45,7 @@
 
 .nav-item {
   height: 80px;
+  list-style-type: none;
 }
 
 .nav-links {
@@ -88,6 +89,7 @@
     left: -100%;
     opacity: 1;
     transition: all 0.5s ease;
+    justify-content: space-evenly;
   }
 
   .nav-menu.active {
