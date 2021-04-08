@@ -20,7 +20,7 @@ function Cards () {
             />
              <CardItem
               src="images/img-2.jpg"
-              text="Used TensorFlow.js Machine Learning Models to for item recognition
+              text="Used TensorFlow.js Machine Learning Models for item recognition
               Designed and Created an account login tool through React to improve user experience and save user data
               Implemented user database using MongoDB to store login information and email
               Developed application in REST API architectural style allowing for efficient GET and POST requests
